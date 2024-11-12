@@ -1,0 +1,6 @@
+outs:
+- md5: 5a8a33fd115fc657ff61caafb0e7cde9.dir
+  size: 821467746
+  nfiles: 2145
+  hash: md5
+  path: noisy
